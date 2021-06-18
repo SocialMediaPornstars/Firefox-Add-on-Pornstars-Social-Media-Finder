@@ -14,7 +14,8 @@ Besides the quick search function using your right mouse button, there's also a 
 
 ### Download Link
 You can download the entire Pornstar Social Media Finder browser app as an easy to install XPI file (a signed Firefox Add-on) directly from: https://socialmediapornstars.com/files/chromeapp/downloadapp.php?id=3
-Alternatively, you can "compile" the source code yourself (download all files and sign and package it together).
+
+Alternatively, you can download all source files and sign and package it together yourself.
 
 ### Source Code
 This Firefox Add-on is ported from our original Chrome browser extension, you can see the extension in action on this Youtube video right here: https://youtu.be/-80rFuwsVto 
