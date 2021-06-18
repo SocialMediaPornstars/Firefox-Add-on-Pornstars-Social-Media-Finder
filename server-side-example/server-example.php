@@ -20,4 +20,9 @@ $source = strip_tags($_GET['source']);
 if ($source == "FirefoxApp") {
     // Do something
 };
+
+// Next, you would probably be connecting to your SQL database
+// You could check the amount of matching results in your SQL database using num_rows,
+// and if there's only one matching row found, redirect the visitor directly to that page. Or else continue and print all the matching rows.
 // Etc etc
+
