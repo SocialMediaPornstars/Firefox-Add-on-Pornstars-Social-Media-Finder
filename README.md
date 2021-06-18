@@ -9,11 +9,15 @@ If your search query receives multiple matching results, the search page will re
 
 Besides the quick search function using your right mouse button, there's also a browser popup screen which will let you easily search through the entire server-side database (this is an embedded page through an iframe).
 
+#### Watch the Firefox Add-on in action in this Youtube trailer below
+[![Porn Star Social Media Finder Firefox Add-on](http://img.youtube.com/vi/IO82wv-gF9o/0.jpg)](http://www.youtube.com/watch?v=IO82wv-gF9o "Pornstar Social Media Finder Firefox Add-on - Trailer Video")
+
 ### Download Link
 You can download the entire Pornstar Social Media Finder browser app as an easy to install XPI file (a signed Firefox Add-on) directly from: https://socialmediapornstars.com/files/chromeapp/downloadapp.php?id=3
 Alternatively, you can "compile" the source code yourself (download all files and sign and package it together).
 
 ### Source Code
+This Firefox Add-on is ported from our original Chrome browser extension, you can see the extension in action on this Youtube video right here: https://youtu.be/-80rFuwsVto 
 The source code hosted on Github is the client side. Keep in mind that all the user input gets validated and sanitized server-side, so if you decide to use some parts of the source code, be sure to sanitize the user input on the destination pages on your server! A small server side example PHP file is included, which will point you in the right direction.
 
 ### License
