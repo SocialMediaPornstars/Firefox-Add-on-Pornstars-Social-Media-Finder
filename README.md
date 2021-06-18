@@ -7,11 +7,14 @@ Whenever you are browsing the web, doesn't matter which website, could be Youtub
 This will spawn the browser to open the socialmediapornstars.com search page in a new browser tab, using that model's name (you've highlighted) as the search query that's used. If there is an exact match in our database, you will be redirected to the page showing all of that porn star's social media usernames directly.
 If your search query receives multiple matching results, the search page will return all matching models in the (blockchain) database at socialmediapornstars.com.
 
-Besides the quick search function using your right mouse button, there's also a browser popup screen will let's you easily search through all model's (this part is hosted server side and is simply an embedded page through an iframe).
+Besides the quick search function using your right mouse button, there's also a browser popup screen which will let you easily search through the entire server-side database (this is an embedded page through an iframe).
 
-### Download link
+### Download Link
 You can download the entire Pornstar Social Media Finder browser app as an easy to install XPI file (a signed Firefox Add-on) directly from: https://socialmediapornstars.com/files/chromeapp/downloadapp.php?id=3
 Alternatively, you can "compile" the source code yourself (download all files and sign and package it together).
+
+### Source Code
+The source code hosted on Github is the client side. Keep in mind that all the user input gets validated and sanitized server-side, so if you decide to use some parts of the source code, be sure to sanitize the user input on the destination pages on your server! A small server side example PHP file is included, which will point you in the right direction.
 
 ### License
 Source code by © socialmediapornstars.com.
