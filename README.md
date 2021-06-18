@@ -19,6 +19,7 @@ Alternatively, you can download all source files and sign and package it togethe
 
 ### Source Code
 This Firefox Add-on is ported from our original Chrome browser extension, you can see the extension in action on this Youtube video right here: https://youtu.be/-80rFuwsVto 
+
 The source code hosted on Github is the client side. Keep in mind that all the user input gets validated and sanitized server-side, so if you decide to use some parts of the source code, be sure to sanitize the user input on the destination pages on your server! A small server side example PHP file is included, which will point you in the right direction.
 
 ### License
